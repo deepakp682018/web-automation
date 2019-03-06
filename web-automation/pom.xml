@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>mconnectedlab.com web automation project</name>
   <description>mconnectedlab.com web automation project using selenium, eclipse, testng, maven and jenkins</description>
-  ////Deepak123
+  //Deepak
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
